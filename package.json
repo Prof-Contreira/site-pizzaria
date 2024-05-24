@@ -1,0 +1,28 @@
+{
+  "name": "site-pizzaria",
+  "version": "1.0.0",
+  "description": "Site para aprendizado de FrontEnd com Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prof-Contreira/site-pizzaria.git"
+  },
+  "author": "Alexandre Contreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prof-Contreira/site-pizzaria/issues"
+  },
+  "homepage": "https://github.com/Prof-Contreira/site-pizzaria#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "sass": "^1.77.2",
+    "scss": "^0.2.4"
+  }
+}
